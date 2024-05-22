@@ -63,7 +63,7 @@ img {
 
 /* Header */
 .header {
-    background-image: url(imagenes/banner.jpg);
+    background-image: url(/imagenes/banner.jpg);
     height: 60rem;
     background-size: cover;
     background-repeat: no-repeat;
@@ -231,7 +231,7 @@ img {
 /* Contacto */
 
 .contacto-bg {
-    background-image: url(imagenes/contacto.jpg);
+    background-image: url(/imagenes/contacto.jpg);
     height: 40rem;
     background-repeat: no-repeat;
     background-size: cover;
