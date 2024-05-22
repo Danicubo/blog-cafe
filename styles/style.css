@@ -63,7 +63,7 @@ img {
 
 /* Header */
 .header {
-    background-image: url(/imagenes/banner.webp);
+    background-image: url(/imagenes/banner.jpg);
     height: 60rem;
     background-size: cover;
     background-repeat: no-repeat;
